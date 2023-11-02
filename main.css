@@ -1,0 +1,16 @@
+/* Navigation Bar Branding (Left Side of Navbar) */
+.navbar-brand {
+    font-family: "amandine", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 22px;
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
